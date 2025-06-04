@@ -10,12 +10,7 @@
   - Blog Layout Design
     <br>
     <br>
-- <b>JavaScript and jQuery Development</b>
-  - Photo API integration
-  - YouTube API integration
-  - jQuery integration
-    <br>
-    <br>
+
 - <b>Shopify 1.0 Theme-Development</b>
   - FAQ-Section
   - Wholesale page
